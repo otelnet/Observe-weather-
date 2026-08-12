@@ -1,0 +1,6 @@
+{
+  "name": "Global Weather & HKO Severe Alert Simulator",
+  "description": "Real-time global weather updates, Hong Kong Observatory severe warnings, interactive historical scenario simulation, and AI-powered regional trend forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
